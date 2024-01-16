@@ -17,10 +17,13 @@ Make sure you have the following Python libraries installed:
 - [scikit-learn](https://scikit-learn.org/): `pip install scikit-learn`
 - [Matplotlib](https://matplotlib.org/): `pip install matplotlib`
 
-
-### Usage
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/linear-regression-models.git
+## 📄 Necessary Steps for Preprocessing Data
+- Handling Missing Values:
+Decide on a strategy for handling missing values (e.g., dropping, imputing).
+- Encoding Categorical Variables:
+Identify categorical variables and decide on an encoding method (e.g., one-hot encoding).
+- Scaling Numerical Features:
+Choose a scaling method for numerical features (e.g., Min-Max scaling, Standard scaling).
+Implement the chosen scaling method in your script.
+- Feature Engineering (if applicable):
+Create new features or transform existing features to enhance model performance.
