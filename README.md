@@ -4,7 +4,7 @@
 
 # LinearRegressionHub
 
-Welcome to the Linear Regression Models Repository! This repository houses a collection of carefully crafted linear regression models designed for diverse applications.
+Welcome to the Linear Regression Repository! This repository houses a collection of carefully crafted linear regression models designed for diverse applications.
 
 ## 🚀 Getting Started
 
