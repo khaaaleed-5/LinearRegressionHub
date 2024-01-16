@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="linear-regression.png" alt="Repository Logo" width="200" height="200">
+  <img src="linear-regression.png" alt="Repository Logo" width="max-width" height="200">
 </p>
 
 # LinearRegressionHub
