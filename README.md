@@ -27,3 +27,9 @@ Choose a scaling method for numerical features (e.g., Min-Max scaling, Standard 
 Implement the chosen scaling method in your script.
 - Feature Engineering (if applicable):
 Create new features or transform existing features to enhance model performance.
+
+## Kaggle Profile
+
+Connect with me on Kaggle to explore more data science projects and competitions:
+
+[Khaled Ashraf]((https://www.kaggle.com/khaledashraf5)
