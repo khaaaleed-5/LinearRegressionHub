@@ -32,4 +32,4 @@ Create new features or transform existing features to enhance model performance.
 
 Connect with me on Kaggle to explore more data science projects and competitions:
 
-[Khaled Ashraf]((https://www.kaggle.com/khaledashraf5)
+[Khaled Ashraf](https://www.kaggle.com/khaledashraf5)
